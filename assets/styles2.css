@@ -1,0 +1,28 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    padding: 20px;
+    background-color: black;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+.linha-branca {
+    background-color: #ffffff !important;
+}
+
+.linha-cinza {
+    background-color: #cfcfcf !important;
+}
+
+.imprimirImg {
+    width: 20px !important;
+    height: 20px !important;
+}
